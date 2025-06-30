@@ -1,0 +1,23 @@
+// Create CrewLogs table
+.create table CrewLogs (
+    Timestamp: datetime,
+    CrewId: string,
+    Location: string,
+    Action: string
+)
+
+// Create SystemAlerts table
+.create table SystemAlerts (
+    Timestamp: datetime,
+    AlertId: string,
+    System: string,
+    Severity: int
+)
+
+// Create CommSignals table
+.create table CommSignals (
+    Timestamp: datetime,
+    SignalId: string,
+    Source: string,
+    Message: string
+)

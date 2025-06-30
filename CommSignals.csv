@@ -1,0 +1,6 @@
+Timestamp,SignalId,Source,Message
+2247-06-29T10:01:00Z,S001,Station,Status Update
+2247-06-29T10:11:00Z,S002,Unknown,Initiate Phase 1
+2247-06-29T10:13:00Z,S003,Unknown,Access granted
+2247-06-29T10:16:00Z,S004,Station,All clear
+2247-06-29T10:22:00Z,S005,Unknown,Prepare Phase 2

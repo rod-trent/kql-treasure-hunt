@@ -1,0 +1,9 @@
+Timestamp,CrewId,Location,Action
+2247-06-29T09:55:00Z,C002,Engineering,Maintenance
+2247-06-29T10:00:00Z,C001,Bridge,Login
+2247-06-29T10:05:00Z,C002,Engineering,Repair
+2247-06-29T10:10:00Z,C001,CommRoom,Access
+2247-06-29T10:12:00Z,C003,Bridge,Monitor
+2247-06-29T10:15:00Z,C001,CommRoom,Logout
+2247-06-29T10:20:00Z,C004,MedBay,Checkup
+2247-06-29T10:25:00Z,C002,Engineering,Logout
