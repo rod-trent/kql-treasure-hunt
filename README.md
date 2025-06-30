@@ -1,6 +1,6 @@
 # KQL Treasure Hunt: Sample Dataset
 
-This repository contains sample data for the blog post "KQL Treasure Hunt: Solve a Data Mystery with Queries." The data simulates logs from the *Starlight Outpost*, a fictional space station, and is designed to teach KQL (Kusto Query Language) through a detective-style narrative.
+This repository contains sample data for the blog post [https://rodtrent.substack.com/p/kql-treasure-hunt-solve-a-data-mystery]("KQL Treasure Hunt: Solve a Data Mystery with Queries.") The data simulates logs from the *Starlight Outpost*, a fictional space station, and is designed to teach KQL (Kusto Query Language) through a detective-style narrative.
 
 ## Dataset Overview
 The dataset consists of three CSV files:
