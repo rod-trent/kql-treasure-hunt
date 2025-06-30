@@ -22,9 +22,9 @@ The dataset consists of three CSV files:
    - Use the following ingestion commands (replace `<database_name>` with your database name):
 
      ```kql
-     .ingest into table CrewLogs 'https://raw.githubusercontent.com/<your-username>/<your-repo>/main/CrewLogs.csv' with (format='csv', ignoreFirstRecord=true)
-     .ingest into table SystemAlerts 'https://raw.githubusercontent.com/<your-username>/<your-repo>/main/SystemAlerts.csv' with (format='csv', ignoreFirstRecord=true)
-     .ingest into table CommSignals 'https://raw.githubusercontent.com/<your-username>/<your-repo>/main/CommSignals.csv' with (format='csv', ignoreFirstRecord=true)
+     .ingest into table CrewLogs 'https://raw.githubusercontent.com/rod-trent/kql-treasure-hunt/main/CrewLogs.csv' with (format='csv', ignoreFirstRecord=true)
+     .ingest into table SystemAlerts 'https://raw.githubusercontent.com/rod-trent/kql-treasure-hunt/main/SystemAlerts.csv' with (format='csv', ignoreFirstRecord=true)
+     .ingest into table CommSignals 'https://raw.githubusercontent.com/rod-trent/kql-treasure-hunt/main/CommSignals.csv' with (format='csv', ignoreFirstRecord=true)
      ```
 
    - Alternatively, manually import the CSV files via the Azure Data Explorer UI.
